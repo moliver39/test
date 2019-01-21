@@ -1,3 +1,7 @@
 this is a test file
+<<<<<<< HEAD
+and noe it is edited
+=======
 
 molly
+>>>>>>> test-2
